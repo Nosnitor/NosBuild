@@ -2,7 +2,7 @@
 
 The Nosnitor Common Build project contains Visual Studio and Team Foundation Server focused build scripts and functionality used by Nosnitor applications.
 
-* [Functionality](#bottom-scroll)
+* [Functionality](#the-scripts)
 
 ## The Scripts
 
@@ -55,5 +55,3 @@ This script will list all TFS and NosBuild environment variables so that they ca
 2015-11-19T22:16:14.7156089Z BuildVersion                       : 1.0.1-CI.20151119.12 
 2015-11-19T22:16:14.7156089Z BuildNotes                         : Continuous Integration Build
 ```
-
-### Bottom Scroll
